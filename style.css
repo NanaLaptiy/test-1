@@ -4,4 +4,9 @@ body{
 }
 p{
 	color: green;
+	font-size: 18px;
+}
+strong{
+	font-size: 25px;
+	color: orange;
 }
